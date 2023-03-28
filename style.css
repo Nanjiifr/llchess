@@ -1,0 +1,17 @@
+table {
+    position: relative;
+    margin: auto;
+    border: none;
+}
+
+table * {
+    border: none;
+}
+
+table .white {
+    background-color: white;
+}
+
+table .black {
+    background-color: black;
+}
